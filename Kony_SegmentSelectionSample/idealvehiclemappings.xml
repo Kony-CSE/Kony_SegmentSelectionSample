@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="idealvehicle" name="idealvehicle">
+    <container isflex="false" displayname="Popup" id="tmpHdrTest" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="tmpSegQuestionLeft" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="tmpSegRightQues" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="tmpSegSectionHeader" type="dialog"/>
+    <container isflex="false" displayname="Form" id="frmtest" type="form"/>
+    <container isflex="false" displayname="Form" id="frmIdeal" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>

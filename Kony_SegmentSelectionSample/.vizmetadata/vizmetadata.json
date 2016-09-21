@@ -1,0 +1,94 @@
+{
+    "forms": {
+        "tablet": {
+            "17e351625af04a339ffc2cae15532ceb": {
+                "04225e90708d4a8795a1adb6ecccad34": {},
+                "0e85b931a5864989be01971d208780f6": {},
+                "17e351625af04a339ffc2cae15532ceb": {
+                    "platforms": {
+                        "android": {},
+                        "ipad": {
+                            "psp": {}
+                        },
+                        "spaandroidtablet": {},
+                        "spaipad": {},
+                        "spawindowstablet": {},
+                        "windows8": {}
+                    }
+                },
+                "364638b147144cf98ebee6d952136b86": {},
+                "43bde4ede6f04c3f9f0eecfb9c9f81e5": {
+                    "platforms": {
+                        "ipad": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "a7505f6aef8b4b82b926e0423ccc1aee": {},
+                "b9c8d4bed8324856890fb30fdcf3c99e": {},
+                "d6c69d40cd644f819410df7e27b96327": {
+                    "platforms": {
+                        "ipad": {
+                            "psp": {}
+                        }
+                    }
+                },
+                "fd172f9cfd0e401aa5d5eead4cdcf1b0": {}
+            }
+        }
+    },
+    "templates": {
+        "tablet": {
+            "headers": {
+                "b8c6384bca3b46cca23c4d5827d6866a": {
+                    "8a6f299f09f44ca49a328e32742c6c8b": {
+                        "platforms": {
+                            "ipad": {
+                                "psp": {}
+                            }
+                        }
+                    },
+                    "b8c6384bca3b46cca23c4d5827d6866a": {},
+                    "d741eca864b04b8da7083ffb9e98543b": {}
+                }
+            },
+            "segments": {
+                "465dbb68ba974ac5aed31ccb7acb0799": {
+                    "465dbb68ba974ac5aed31ccb7acb0799": {},
+                    "9e17e176b01041b88c9b911f2dc7077d": {
+                        "platforms": {
+                            "ipad": {
+                                "psp": {}
+                            }
+                        }
+                    },
+                    "a07b2be9c7b84dcca89426854335e83a": {}
+                },
+                "bc44b57c630043a1a15f8a321ee11bfa": {
+                    "3262654e9de7443cbcde2837d3a3e432": {},
+                    "837b8d43bc134e91a8872d923a0fc07a": {
+                        "platforms": {
+                            "ipad": {
+                                "psp": {}
+                            }
+                        }
+                    },
+                    "ad87123835c44e03959cc3be090dcc8e": {},
+                    "bc44b57c630043a1a15f8a321ee11bfa": {}
+                },
+                "f81bec3a4fd24328b903f305b5f49b4c": {
+                    "566e50a92f78402cadb33f6e8d186039": {},
+                    "9a19dea5592d49929f1cf94a538cef45": {
+                        "platforms": {
+                            "ipad": {
+                                "psp": {}
+                            }
+                        }
+                    },
+                    "a0b83077c4de4683a88a11e35faa2008": {},
+                    "f81bec3a4fd24328b903f305b5f49b4c": {}
+                }
+            }
+        }
+    }
+}

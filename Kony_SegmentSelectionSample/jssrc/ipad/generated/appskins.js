@@ -1,0 +1,22 @@
+function skinsInit() {
+    fcWhite = "fcWhite";
+    seg2Focus = "seg2Focus";
+    seg2Normal = "seg2Normal";
+    sknFcBlack = "sknFcBlack";
+    sknFrmWhite = "sknFrmWhite";
+    sknFscGrey = "sknFscGrey";
+    sknLblHeading = "sknLblHeading";
+    sknLblQues = "sknLblQues";
+    sknLblQues2 = "sknLblQues2";
+    slButtonGlossBlue = "slButtonGlossBlue";
+    slButtonGlossRed = "slButtonGlossRed";
+    slFbox = "slFbox";
+    slForm = "slForm";
+    slFSbox = "slFSbox";
+    slImage = "slImage";
+    sliPhoneSegmentHeader = "sliPhoneSegmentHeader";
+    slLabel = "slLabel";
+    slListBox = "slListBox";
+    slPopup = "slPopup";
+    slTitleBar = "slTitleBar";
+};
